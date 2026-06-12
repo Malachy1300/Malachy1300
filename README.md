@@ -1,6 +1,6 @@
 # Hi 👋
 
-Final-year Mathematics student at Cardiff University (2024–present). I build
+Mathematics student at Cardiff University (BSc, graduating June 2027). I build
 algorithmic and quantitative systems in Python — trading research, backtesting
 infrastructure, and automation.
 
