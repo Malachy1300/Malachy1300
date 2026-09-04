@@ -15,8 +15,11 @@ infrastructure, and automation.
   arbitrage scanner (Uniswap V3 vs Aerodrome on Base) with an Aave V3
   flash-loan executor in Solidity/Foundry.
 
-Also in private repos: a live crypto perpetuals trading system (Bybit) and an
-Airbnb pricing-analysis pipeline.
+Also, in private repos: a live crypto perpetuals trading system (Bybit,
+walk-forward gauntlets + prop-challenge Monte Carlo), a live FTMO prop-firm
+trading system running under an explicit institutional review process
+(phase-gated deploys, incident post-mortems, evidence-linked audits), and an
+Airbnb pricing-analysis and outreach pipeline.
 
 **Stack:** Python (pandas, NumPy, scikit-learn, Streamlit), SQLite,
 Solidity/Foundry, GitHub Actions.
